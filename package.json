@@ -4,7 +4,7 @@
   "description": "Loads your .env file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/main.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/jonaphin/load-env/issues"
   },
-  "homepage": "https://github.com/jonaphin/load-env#readme"
+  "homepage": "https://github.com/jonaphin/load-env#readme",
+  "dependencies": {
+    "dotenv": "^1.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^1.1.0"
+  }
 }
