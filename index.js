@@ -1,7 +1,7 @@
 var path = require('path');
 var fs = require('fs');
 
-global.appRoot = path.resolve(__dirname);
+global.appRoot = path.resolve(__dirname + '../../..');
 
 var dotenvfile_path = appRoot + '/.env';
 
