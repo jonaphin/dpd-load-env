@@ -1,0 +1,26 @@
+{
+  "name": "load-env",
+  "version": "0.1.0",
+  "description": "Loads your .env file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonaphin/load-env.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "module",
+    "dotenv",
+    "loadenv"
+  ],
+  "author": "Jonathan Lancar <jonaphin@gmail.com> (http://www.genesx.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonaphin/load-env/issues"
+  },
+  "homepage": "https://github.com/jonaphin/load-env#readme"
+}
