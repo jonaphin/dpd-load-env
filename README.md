@@ -1,16 +1,16 @@
-# load-env
+# dpd-load-env
 Load your .env file with this npm module.
 
-## Why load-env?
+## Why dpd-load-env?
 
 I created this module to bootstrap a .env file when using [Deployd](http://deployd.com). This module should make it very easy to manage environment variables on Deployd or other node project.
 
 ## Instructions
 
-Install the load-env module
+Install the dpd-load-env module
 
 ```bash
-npm install load-env
+npm install dpd-load-env
 ```
 
 Create a .env file at the root directory of your project. Done!

@@ -1,6 +1,6 @@
 {
-  "name": "load-env",
-  "version": "0.1.0",
+  "name": "dpd-load-env",
+  "version": "0.1.1",
   "description": "Loads your .env file",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jonaphin/load-env.git"
+    "url": "git+ssh://git@github.com/jonaphin/dpd-load-env.git"
   },
   "keywords": [
     "npm",
@@ -20,9 +20,9 @@
   "author": "Jonathan Lancar <jonaphin@gmail.com> (http://www.genesx.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonaphin/load-env/issues"
+    "url": "https://github.com/jonaphin/dpd-load-env/issues"
   },
-  "homepage": "https://github.com/jonaphin/load-env#readme",
+  "homepage": "https://github.com/jonaphin/dpd-load-env#readme",
   "dependencies": {
     "dotenv": "^1.1.0"
   },
